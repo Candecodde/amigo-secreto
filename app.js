@@ -37,4 +37,4 @@ function sortearAmigo() {
     nombreSorteado.innerHTML = 'El nombre sorteado es: ' + amigos[nombreRandom];
 }
 
-console.log("hola mundo");
+
