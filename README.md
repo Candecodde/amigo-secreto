@@ -1,6 +1,6 @@
 # amigo-secreto
 ![2025-03-18](https://github.com/user-attachments/assets/0d73f1aa-2f37-4662-8e4b-1d762ceecca9)
-Este pagina fue creada por Alura Latam y por la becada Candela Hernandez.
+Este pagina fue creada por Alura Latam y por la becada Candela Hernandez, Hecha con los lenguajes de Javascript y CSS.
 Esta pagina sirve para sortear nombres de amigos para poder jugar al amigo secreto,
 se colocaran una cierta cantidad de nombres y una vez agregados se sortea y sale un nombre al azar
 
